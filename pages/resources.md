@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Learning Resources
+title: Study Hub
 category: resources
 permalink: /resources
 ---
